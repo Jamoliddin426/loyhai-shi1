@@ -1,0 +1,39 @@
+h1{
+    background-color: cornflowerblue;
+    border: 2px solid red;
+    text-align: center;
+    border-radius: 40px;
+}
+table, th, td {
+    border: 2px solid black;
+    
+    }
+    .malumot{
+        text-align: center;
+        background-color: yellow;
+    }
+    .ism{
+        background-color: red;
+        text-align: center;
+    }
+    .rangi{
+    background-color: green;
+    }
+    .modely{
+        background-color: rgb(132, 0, 255);
+    }
+    .modelx{
+        background-color: rgb(132, 0, 255);
+    }
+    .model3{
+        background-color: rgb(132, 0, 255);
+    }
+    .models{
+        background-color: rgb(132, 0, 255);
+    }
+    .yuborish{
+       background-color:chartreuse ; width: 150px;
+    }
+    span{
+        background-color: yellow;
+    }
